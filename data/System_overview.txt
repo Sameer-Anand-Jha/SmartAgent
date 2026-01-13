@@ -1,0 +1,8 @@
+System Overview
+
+The system is a real time conversational voice agent.
+Voice Activity Detection is used to detect when the user starts speaking.
+Short acknowledgement phrases such as yeah or okay are treated as backchannels.
+Backchannels do not interrupt the agent while it is speaking.
+Explicit interruption commands such as stop or wait immediately stop agent speech.
+Knowledge based questions are answered using document retrieval and generation.
