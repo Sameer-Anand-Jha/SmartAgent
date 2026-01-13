@@ -1,0 +1,8 @@
+Authentication and Access Policy
+
+All users must authenticate before accessing any system features.
+Authentication is performed using a token based mechanism.
+Tokens expire after 24 hours and must be refreshed after expiration.
+Failed authentication attempts must be logged for auditing purposes.
+Sensitive operations require role based access control.
+Unauthenticated or unauthorized requests must be rejected immediately.
