@@ -1,0 +1,13 @@
+Frequently Asked Questions
+
+How do I interrupt the agent?
+Say stop or wait while the agent is speaking.
+
+What happens if I say yeah or okay?
+The agent treats it as an acknowledgement and continues speaking.
+
+Does the agent use external knowledge?
+Yes, the agent retrieves relevant information from provided documents.
+
+Can retrieval be cancelled?
+Yes, retrieval and response generation are cancelled if the user interrupts.
