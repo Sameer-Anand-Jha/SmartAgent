@@ -12,4 +12,4 @@ A real-time voice conversational agent that combines state-aware interruption ha
 - Document-grounded responses with cancellable retrieval and generation  
 - Designed for low-latency live voice interaction
 
-Data undered shared ownership, can't host here.
+
